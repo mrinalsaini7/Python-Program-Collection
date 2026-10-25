@@ -16,7 +16,7 @@ Calculates the factorial of a number using a `for` loop.
 - **Example:** `5! = 120`
 - **Time Complexity:** O(n)
 - **File:** `factorial.py`
-- Link- 
+- Link- https://github.com/mrinalsaini7/Python-Program-Collection/blob/302f59d494a8d39639bec63af42bc395bdbb4fd8/factorial.py
 
 ### 2. Student Information System
 
